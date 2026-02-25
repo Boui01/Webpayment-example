@@ -1,7 +1,7 @@
 {
   "Robinson-webpay": {
     "primary": 1,
-    "nameTH": "Robinson-webpay",
+    "nameTH": "หน้าชำระค่าจอดรถ Robinson",
     "nameEN": "Robinson-webpay",
     "Robinson-webpay/หน้าสำหรับแสดงการค้นหาหน้า path ไม่เจอ.png": {
       "primary": 1,
@@ -36,7 +36,8 @@
   },
   "Bitec-webpay": {
     "primary": 1,
-    "name": "Bitec-webpay",
+    "nameTH": "หน้าชำระค่าจอดรถ Bitec",
+    "nameEN": "Bitec-webpay",
     "Bitec-webpay/หน้าสำหรับแสดงการค้นหาหน้า path ไม่เจอ.png": {
       "primary": 1,
       "th": "หน้าสำหรับแสดงการค้นหาหน้า path ไม่เจอของ Web pay Bitec",
@@ -70,7 +71,8 @@
   },
   "True-digital-webpay": {
     "primary": 1,
-    "name": "True-digital-webpay",
+    "nameTH": "หน้าชำระค่าจอดรถ True-digital",
+    "nameEN": "True-digital-webpay",
     "True-digital-webpay/หน้าสำหรับแสดงการค้นหาหน้า path ไม่เจอ.png": {
       "primary": 1,
       "th": "หน้าสำหรับแสดงการค้นหาหน้า path ไม่เจอของ Web pay True-digital",
